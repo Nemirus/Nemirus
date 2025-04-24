@@ -1,20 +1,19 @@
-<h1 align="center">Welcome to the Domain of Nemirus</h1>
+<h1 align="center">ハロハロ！ಡ⁠ ͜⁠ ⁠ʖ⁠ ⁠ಡ</h1>
 
 <p align="center">
-  <i>"In silence, I build. In shadow, I release."</i><br>
+  <i>"Equality is an illusion. Those who seek it are merely closing their eyes to reality."</i><br>
   <i>"Code is not just creation — it is confrontation."</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=435&lines=Nemirus+Has+Entered+the+Void;Crafting+Discipline+From+Digital+Ash;Curious.+Viral.+Unseen."/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=435&lines=Knowledge+is+power.;Bang+(⁠☞+ಠ⁠_⁠ಠ⁠)⁠☞;Checkmate"/>
 </p>
 
 ---
 
 ### **Who is Nemirus?**
 
-> A digital phantom. A curious contagion.  
-> Hunter of distraction. Keeper of the self.  
+> Just a normal developer.  
 > I build not just for function, but for reflection.  
 > Tools that question you back.
 
@@ -38,8 +37,8 @@
 
 ### **Find Me in the Static**
 
-- **Discord**: *Summon privately*  
-- **LinkedIn**: *Why wake the sleeper?*  
+- **Telegram**: [Click here](t.me/nemirusx)
+- **LinkedIn**: *Not yet. But soon.*  
 - **Twitter**: *Not yet. But soon.*
 
 ---
