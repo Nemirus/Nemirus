@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=435&lines=Knowledge+is+power.;Bang+(⁠☞+ಠ⁠_⁠ಠ⁠)⁠☞;Checkmate"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=435&lines=Knowledge+is+power.;Minimalism;The+abyss+will+look+back"/>
 </p>
 
 ---
