@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=435&lines=Coffee in the morning; Coffee in the afternoon; Coffee when it's raining; and Coffee in the evning"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F7FFF&center=true&vCenter=true&width=435&lines=Coffee+in+the+morning;Coffee+in+the+afternoon;Coffee+when+it's+raining;and+Coffee+in+the+evening"/>
 </p>
 
 ---
